@@ -7,6 +7,10 @@ X-SpringBoot: https://github.com/yzcheng90/X-SpringBoot
 
 一些SpringBoot资源：https://github.com/ityouknow/awesome-spring-boot
 
+SpringBoot开发案列：https://blog.52itstyle.com/category/springBoot/
+
+
+
 
 前端项目：https://github.com/PanJiaChen/vue-element-admin
 
