@@ -6,6 +6,8 @@ FEBS-Shiro: https://github.com/wuyouzhuguli/FEBS-Shiro
 
 X-SpringBoot: https://github.com/yzcheng90/X-SpringBoot
 
+Hope-plus： https://github.com/java-aodeng/hope-plus
+
 ## 学习资源：
 一些SpringBoot资源：https://github.com/ityouknow/awesome-spring-boot
 
