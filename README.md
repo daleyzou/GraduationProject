@@ -20,6 +20,7 @@ SpringBoot开发案列：https://blog.52itstyle.com/category/springBoot/
 vue-element-admin： https://github.com/PanJiaChen/vue-element-admin
 
 ## dicom 文件相关
+查看Windows下支持的Python版本以及TensorFlow ： https://blog.csdn.net/sinat_23619409/article/details/84202596
 
 
 
