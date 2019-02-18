@@ -21,7 +21,10 @@ vue-element-admin： https://github.com/PanJiaChen/vue-element-admin
 
 ## dicom 文件相关
 查看Windows下支持的Python版本以及TensorFlow ： https://blog.csdn.net/sinat_23619409/article/details/84202596
+
 dicom文件tag相关说明 ： https://blog.csdn.net/inter_peng/article/details/46513847
+
+dicom数据集下载 ： http://pagesperso.litislab.fr/cpetitjean/mr-images-and-contour-data/
 
 
 
