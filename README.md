@@ -28,5 +28,7 @@ dicom数据集下载 ： http://pagesperso.litislab.fr/cpetitjean/mr-images-and-
 
 MRI 图像， 右心室分割：http://www.androidev.com/2017/09/20/30622.html
 
+windows10 安装机器学习环境：https://www.jianshu.com/p/6c3b1889b358
+
 
 
