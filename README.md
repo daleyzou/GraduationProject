@@ -31,4 +31,9 @@ MRI 图像， 右心室分割：http://www.androidev.com/2017/09/20/30622.html
 windows10 安装机器学习环境：https://www.jianshu.com/p/6c3b1889b358
 
 
+## 相关论文
+
+基于JAVA的磁共振数据处理工具及数据库的开发： http://www.wanfangdata.com.cn/details/detail.do?_type=degree&id=Y1761676#
+
+
 
