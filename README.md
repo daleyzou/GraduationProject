@@ -35,5 +35,7 @@ windows10 安装机器学习环境：https://www.jianshu.com/p/6c3b1889b358
 
 基于JAVA的磁共振数据处理工具及数据库的开发： http://www.wanfangdata.com.cn/details/detail.do?_type=degree&id=Y1761676#
 
+基于java的脑肿瘤磁共振批处理数据工具的研发： http://cpfd.cnki.com.cn/Article/CPFDTOTAL-OGSR201012003010.htm
+
 
 
